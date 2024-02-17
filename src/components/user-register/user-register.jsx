@@ -5,6 +5,7 @@ import { Box, Button, FormControl, FormGroup, IconButton, Input, InputAdornment,
 import { Visibility, VisibilityOff } from '@mui/icons-material';
 import React from 'react';
 import { useFormik } from 'formik';
+import { UserLogin } from '../user-login/user-login';
 
 export function UserRegister()
 {
@@ -180,7 +181,7 @@ export function UserRegister()
                             Submit
                         </Button>
                         </p>
-                        <p className='text-end pe-4 pt-3'>Existing User?<Link to='/login'>Login</Link></p>
+                        <p className='text-end pe-4 pt-3'>Existing User?<Link to='/userlogin'>Login</Link></p>
                         {/* <h4 className='text-danger'>{error}</h4> */}
                     </FormGroup>
                 </form>
