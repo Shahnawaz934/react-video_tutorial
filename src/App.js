@@ -45,7 +45,7 @@ function App() {
       </header>
       <section>
         <Routes>
-          <Route path='/react-video_tutorial'  element={<VideosMain/>} />
+          <Route path='/react_video_tutorial'  element={<VideosMain/>} />
           <Route path='uregister' element={<UserRegister/>} />
           <Route path='userlogin' element={<UserLogin/>} />
           <Route path='userdashboard' element={<UserDashboard/>} />
