@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/react-video_tutorial/static/css/main.26c060fb.css",
-    "main.js": "/react-video_tutorial/static/js/main.26b87eb5.js",
+    "main.js": "/react-video_tutorial/static/js/main.49cc0af7.js",
     "static/js/453.17542496.chunk.js": "/react-video_tutorial/static/js/453.17542496.chunk.js",
     "static/media/bootstrap-icons.woff?": "/react-video_tutorial/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
     "static/media/bootstrap-icons.woff2?": "/react-video_tutorial/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
     "index.html": "/react-video_tutorial/index.html",
     "main.26c060fb.css.map": "/react-video_tutorial/static/css/main.26c060fb.css.map",
-    "main.26b87eb5.js.map": "/react-video_tutorial/static/js/main.26b87eb5.js.map",
+    "main.49cc0af7.js.map": "/react-video_tutorial/static/js/main.49cc0af7.js.map",
     "453.17542496.chunk.js.map": "/react-video_tutorial/static/js/453.17542496.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.26c060fb.css",
-    "static/js/main.26b87eb5.js"
+    "static/js/main.49cc0af7.js"
   ]
 }
