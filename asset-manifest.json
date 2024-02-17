@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/react_video_tutorial/static/css/main.43d8739d.css",
-    "main.js": "/react_video_tutorial/static/js/main.f752785c.js",
-    "static/js/453.17542496.chunk.js": "/react_video_tutorial/static/js/453.17542496.chunk.js",
-    "static/media/bootstrap-icons.woff?": "/react_video_tutorial/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
-    "static/media/bootstrap-icons.woff2?": "/react_video_tutorial/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
-    "index.html": "/react_video_tutorial/index.html",
-    "main.43d8739d.css.map": "/react_video_tutorial/static/css/main.43d8739d.css.map",
-    "main.f752785c.js.map": "/react_video_tutorial/static/js/main.f752785c.js.map",
-    "453.17542496.chunk.js.map": "/react_video_tutorial/static/js/453.17542496.chunk.js.map"
+    "main.css": "/react-video_tutorial/static/css/main.26c060fb.css",
+    "main.js": "/react-video_tutorial/static/js/main.26b87eb5.js",
+    "static/js/453.17542496.chunk.js": "/react-video_tutorial/static/js/453.17542496.chunk.js",
+    "static/media/bootstrap-icons.woff?": "/react-video_tutorial/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/react-video_tutorial/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
+    "index.html": "/react-video_tutorial/index.html",
+    "main.26c060fb.css.map": "/react-video_tutorial/static/css/main.26c060fb.css.map",
+    "main.26b87eb5.js.map": "/react-video_tutorial/static/js/main.26b87eb5.js.map",
+    "453.17542496.chunk.js.map": "/react-video_tutorial/static/js/453.17542496.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.43d8739d.css",
-    "static/js/main.f752785c.js"
+    "static/css/main.26c060fb.css",
+    "static/js/main.26b87eb5.js"
   ]
 }
