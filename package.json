@@ -2,7 +2,7 @@
   "name": "react_video-tutorial",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://Shahnawaz934.github.io/",
+  "homepage": "http://Shahnawaz934.github.io/react-video_tutorial/",
   "dependencies": {
     "@emotion/react": "^11.11.3",
     "@emotion/styled": "^11.11.0",
