@@ -30,7 +30,7 @@ function App() {
       <BrowserRouter>
       <header className='p-2 d-flex justify-content-between'>
         <div>
-          <span className='h3 p-2 rounded rounded-2' ><Link  style={{color:'white',textDecoration:'none'}} to='/'>Video Tutorial</Link></span>
+          <span className='h3 p-2 rounded rounded-2' ><Link  style={{color:'white',textDecoration:'none',}} to='/'>Video Tutorial</Link></span>
           
         </div>
         <div>
