@@ -30,7 +30,7 @@ function App() {
       <BrowserRouter>
       <header className='p-2 d-flex justify-content-between'>
         <div>
-          <span className='h3 p-2 rounded rounded-2' ><Link  style={{color:'white',textDecoration:'none',}} to='react-video_tutorial'>Video Tutorial</Link></span>
+          <span className='h3 p-2 rounded rounded-2' ><Link  style={{color:'white',textDecoration:'none',}} to='/'>Video Tutorial</Link></span>
           
         </div>
         <div>
@@ -45,7 +45,7 @@ function App() {
       </header>
       <section>
         <Routes>
-          <Route path='react-video_tutorial'  element={<VideosMain/>} />
+          <Route path='/'  element={<VideosMain/>} />
           <Route path='uregister' element={<UserRegister/>} />
           <Route path='userlogin' element={<UserLogin/>} />
           <Route path='userdashboard' element={<UserDashboard/>} />
